@@ -1,3 +1,7 @@
 venv/
+datasetsInput/
+output/
+inference/
+models/
 yolo11n.pt
 yolo11s.pt
